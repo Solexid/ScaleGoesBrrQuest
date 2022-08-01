@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F70C2A5E-41A4-481E-8666-243A82F93E40}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScaleGoesBrr", "ScaleGoesBrr\ScaleGoesBrr.csproj", "{6E79F8CC-0513-43DB-974F-983867F9CBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E79F8CC-0513-43DB-974F-983867F9CBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E79F8CC-0513-43DB-974F-983867F9CBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E79F8CC-0513-43DB-974F-983867F9CBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E79F8CC-0513-43DB-974F-983867F9CBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39626E0E-ADBA-47ED-992D-4EF589275161}
+	EndGlobalSection
+EndGlobal
