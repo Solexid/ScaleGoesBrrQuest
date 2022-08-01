@@ -1,2 +1,2 @@
 Ported knah (https://github.com/knah/VRCMods/blob/master/ScaleGoesBrr) mod to quest VRC.
-Patch created by MagnaLuna.
+Patch created by MagnaLuna (https://github.com/MagnaLunas).
